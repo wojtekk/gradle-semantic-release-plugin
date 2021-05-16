@@ -44,7 +44,7 @@
     "prettier": "^1.16.4",
     "pretty-quick": "^1.10.0",
     "rimraf": "^2.6.3",
-    "semantic-release": "^15.13.3",
+    "semantic-release": "^17.2.3",
     "ts-jest": "^24.0.0",
     "tslint": "^5.14.0",
     "tslint-config-prettier": "^1.18.0",
@@ -54,7 +54,7 @@
     "node": ">=8.3"
   },
   "peerDependencies": {
-    "semantic-release": "^15.13.3"
+    "semantic-release": "^17.2.3"
   },
   "jest": {
     "transform": {
